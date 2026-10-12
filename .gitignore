@@ -76,6 +76,11 @@ $RECYCLE.BIN/
 secrets.json
 credentials.json
 
+# ---------- 工具 / 本地工程元数据（不对外公开） ----------
+.workbuddy/
+.claude/
+.cursor/
+
 # ---------- 其他 ----------
 *.bak
 *.orig
